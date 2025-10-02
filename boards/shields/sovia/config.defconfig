@@ -1,0 +1,7 @@
+if SHIELD_SOVIA
+
+# Name must be less than 16 characters long!
+config ZMK_SOVIA
+    default "Sovia"
+
+endif

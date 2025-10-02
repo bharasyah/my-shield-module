@@ -1,0 +1,6 @@
+file_format: "1"
+id: sovia
+name: sovia
+type: shield
+url: bharasyah
+requires: [nice!nano v2]
