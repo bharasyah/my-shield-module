@@ -1,7 +1,7 @@
-if SHIELD_SOVIA
+if SHIELD_MY_KEYBOARD
 
 # Name must be less than 16 characters long!
-config ZMK_SOVIA
+config ZMK_KEYBOARD_NAME
     default "Sovia"
 
 endif
